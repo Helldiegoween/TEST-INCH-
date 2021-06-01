@@ -8,3 +8,9 @@ public class Main4 {
         System.out.print(z);
     }
 }
+public class Main6 {
+    public static void main(String[] args) {
+        int x =16;
+        System.out.println(Math.sqrt(x));
+    }
+}
